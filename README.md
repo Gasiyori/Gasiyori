@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Gasiyori&fontSize=110&fontAlign=25&fontAlignY=45&animation=fadeIn&desc=Hong%20GiYeong&descAlign=18&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Gasiyori&fontSize=110&fontAlign=40&fontAlignY=45&animation=fadeIn&desc=Hong%20GiYeong&descAlign=32&descAlignY=60)
